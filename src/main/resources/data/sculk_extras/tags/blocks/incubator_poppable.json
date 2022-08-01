@@ -1,0 +1,12 @@
+{
+  "values": [
+    "minecraft:sculk_sensor",
+    "minecraft:sculk_shrieker",
+    "minecraft:sculk",
+    "minecraft:sculk_catalyst",
+    "minecraft:sculk_vein",
+    "sculk_extras:sculk_jaw",
+    "sculk_extras:sculk_cocoon",
+    "sculk_extras:echoing_sculk_jaw"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "sculk_extras:block/sculk_incubator_bottom",
+    "side": "sculk_extras:block/sculk_incubator_side",
+    "top": "sculk_extras:block/sculk_incubator_top"
+  }
+}

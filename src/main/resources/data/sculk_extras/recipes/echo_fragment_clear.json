@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sculk_extras:echo_shard_fragment"
+    }
+  ],
+  "result": {
+    "item": "sculk_extras:echo_shard_fragment"
+  }
+}

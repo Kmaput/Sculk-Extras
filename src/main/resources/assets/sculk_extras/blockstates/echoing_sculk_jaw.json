@@ -1,0 +1,56 @@
+{
+  "variants": {
+    "facing=down,eating=false": {
+      "model": "sculk_extras:block/echoing_sculk_jaw",
+      "x": 180
+    },
+    "facing=down,eating=true": {
+      "model": "sculk_extras:block/echoing_sculk_jaw_eating",
+      "x": 180
+    },
+    "facing=east,eating=false": {
+      "model": "sculk_extras:block/echoing_sculk_jaw",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,eating=true": {
+      "model": "sculk_extras:block/echoing_sculk_jaw_eating",
+      "x": 90,
+      "y": 90
+    },
+    "facing=north,eating=false": {
+      "model": "sculk_extras:block/echoing_sculk_jaw",
+      "x": 90
+    },
+    "facing=north,eating=true": {
+      "model": "sculk_extras:block/echoing_sculk_jaw_eating",
+      "x": 90
+    },
+    "facing=south,eating=false": {
+      "model": "sculk_extras:block/echoing_sculk_jaw",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,eating=true": {
+      "model": "sculk_extras:block/echoing_sculk_jaw_eating",
+      "x": 90,
+      "y": 180
+    },
+    "facing=up,eating=false": {
+      "model": "sculk_extras:block/echoing_sculk_jaw"
+    },
+    "facing=up,eating=true": {
+      "model": "sculk_extras:block/echoing_sculk_jaw_eating"
+    },
+    "facing=west,eating=false": {
+      "model": "sculk_extras:block/echoing_sculk_jaw",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,eating=true": {
+      "model": "sculk_extras:block/echoing_sculk_jaw_eating",
+      "x": 90,
+      "y": 270
+    }
+  }
+}

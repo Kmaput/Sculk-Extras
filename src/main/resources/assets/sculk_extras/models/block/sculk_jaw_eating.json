@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "sculk_extras:block/sculk_jaw_side",
+    "side": "sculk_extras:block/sculk_jaw_side",
+    "top": "sculk_extras:block/sculk_jaw_top_eating"
+  }
+}

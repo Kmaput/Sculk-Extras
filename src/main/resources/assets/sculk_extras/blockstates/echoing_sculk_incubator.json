@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "sculk_extras:block/echoing_sculk_incubator",
+      "x": 180
+    },
+    "facing=east": {
+      "model": "sculk_extras:block/echoing_sculk_incubator",
+      "x": 90,
+      "y": 90
+    },
+    "facing=north": {
+      "model": "sculk_extras:block/echoing_sculk_incubator",
+      "x": 90
+    },
+    "facing=south": {
+      "model": "sculk_extras:block/echoing_sculk_incubator",
+      "x": 90,
+      "y": 180
+    },
+    "facing=up": {
+      "model": "sculk_extras:block/echoing_sculk_incubator"
+    },
+    "facing=west": {
+      "model": "sculk_extras:block/echoing_sculk_incubator",
+      "x": 90,
+      "y": 270
+    }
+  }
+}

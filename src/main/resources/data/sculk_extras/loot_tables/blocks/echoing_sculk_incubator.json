@@ -1,0 +1,43 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:match_tool",
+          "predicate": {
+            "enchantments": [
+              {
+                "enchantment": "minecraft:silk_touch",
+                "levels": {
+                  "min": 1
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:copy_nbt",
+              "ops": [
+                {
+                  "op": "replace",
+                  "source": "echoFragment",
+                  "target": "BlockEntityTag.echoFragment"
+                }
+              ],
+              "source": "block_entity"
+            }
+          ],
+          "name": "sculk_extras:echoing_sculk_incubator"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

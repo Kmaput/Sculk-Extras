@@ -1,0 +1,25 @@
+{
+  "block.sculk_extras.sculk_jaw": "Sculk Jaw",
+  "block.sculk_extras.sculk_incubator": "Sculk Incubator",
+  "block.sculk_extras.sculk_cocoon": "Sculk Cocoon",
+  "block.sculk_extras.echoing_sculk_jaw": "Echoing Sculk Jaw",
+  "block.sculk_extras.echoing_sculk_incubator": "Echoing Sculk Incubator",
+
+  "item.sculk_extras.sculk_jaw": "Sculk Jaw",
+  "item.sculk_extras.sculk_incubator": "Sculk Incubator",
+  "item.sculk_extras.sculk_cocoon": "Sculk Cocoon",
+  "item.sculk_extras.echoing_sculk_jaw": "Echoing Sculk Jaw",
+  "item.sculk_extras.echoing_sculk_incubator": "Echoing Sculk Incubator",
+  "item.sculk_extras.echo_shard_fragment": "Echo Shard Fragment",
+
+  "item.sculk_extras.echo_shard_fragment.matching": "Matching",
+  "item.sculk_extras.echo_shard_fragment.not_matching": "Not Matching",
+  "item.sculk_extras.echo_shard_fragment.natural": "Holds Sculk Memories",
+  "item.sculk_extras.echo_shard_fragment.artificial": "Artificially Attuned",
+  "item.sculk_extras.echo_shard_fragment.change.punish.fail": "Sculk has no recent actions to punish for",
+  "item.sculk_extras.echo_shard_fragment.change.invert.success": "Inverted memories of sculk",
+  "item.sculk_extras.echo_shard_fragment.change.unmodifiable": "Sculk has artificial memories, which cannot be changed",
+
+  "death.attack.sculkJaw": "%1$s was eaten by sculk jaw",
+  "death.attack.sculkJaw.player": "%1$s was eaten by sculk jaw whilst trying to escape %2$s"
+}

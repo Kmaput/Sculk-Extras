@@ -1,0 +1,20 @@
+modLoader="javafml"
+loaderVersion="[41,)"
+license="MIT License"
+#issueTrackerURL=""
+
+[[mods]]
+modId="sculk_extras"
+version="1.19-0.0.1"
+displayName="Sculk Extras"
+# logoFile="logo.png"
+# credits=""
+authors="Kmaput"
+description='''Some new sculk blocks related to item transport.'''
+
+[[dependencies.sculk_extras]]
+    modId="forge"
+    mandatory=true
+    versionRange="[41,)"
+    ordering="AFTER"
+    side="BOTH"

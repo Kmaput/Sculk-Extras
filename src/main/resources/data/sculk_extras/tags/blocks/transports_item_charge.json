@@ -1,0 +1,9 @@
+{
+  "values": [
+    "minecraft:sculk",
+    "sculk_extras:sculk_jaw",
+    "sculk_extras:sculk_incubator",
+    "sculk_extras:echoing_sculk_jaw",
+    "sculk_extras:echoing_sculk_incubator"
+  ]
+}

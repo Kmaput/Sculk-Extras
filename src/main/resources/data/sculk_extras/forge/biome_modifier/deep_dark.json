@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "minecraft:deep_dark",
+  "features": "sculk_extras:sculk_jaw",
+  "step": "vegetal_decoration"
+}
